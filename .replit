@@ -1,0 +1,2 @@
+run = 'npm --prefix ./xiaolaohu run dev'
+entrypoint = './xiaolaohu/pages/index.jsx'
